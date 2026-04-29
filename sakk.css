@@ -24,3 +24,16 @@ h1 {
     background-color: white;
     color: black;
 }
+
+.alakzat {
+    text-align: center;
+    font-size: 6em;
+}
+
+.kepalairas {
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 6px;
+}
